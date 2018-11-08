@@ -1,0 +1,389 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/17.0
+vadder_2in
+Z0 !s110 1541656566
+!i10b 1
+!s100 :SE=2h>eG8NG2UO;hW?WJ3
+I82zoZDWdoP9_eIBT`aX873
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dG:/vlsi tubes/OCR with ANN/Array Neural Network
+w1540801926
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/adder_2in.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/adder_2in.v
+Z3 L0 30
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1541656565.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/adder_2in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/adder_2in.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vadder_4in
+Z7 !s110 1541656572
+!i10b 1
+!s100 ;4L`nRjb3U4JC:7VMW;<]1
+I3e9fK:49WA[Si1QzlHeE<1
+R1
+R2
+w1517387992
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/adder_4in.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/adder_4in.v
+R3
+R4
+r1
+!s85 0
+31
+Z8 !s108 1541656572.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/adder_4in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/adder_4in.v|
+!i113 1
+R5
+R6
+vcoef_term1
+R7
+!i10b 1
+!s100 I^Q88I^6SfV@fSJC1@=Z10
+I;TjjS=WNH5aLm6;Cjkb<m0
+R1
+R2
+w1517387733
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term1.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term1.v
+Z9 L0 28
+R4
+r1
+!s85 0
+31
+R8
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term1.v|
+!i113 1
+R5
+R6
+vcoef_term2
+Z10 !s110 1541656573
+!i10b 1
+!s100 4WHoFm]?7Hf4l9oG`70z_0
+Ig=]n@4^WF<T=TDk:a>]N^0
+R1
+R2
+w1517387724
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term2.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term2.v
+R9
+R4
+r1
+!s85 0
+31
+Z11 !s108 1541656573.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term2.v|
+!i113 1
+R5
+R6
+vcoef_term3
+R10
+!i10b 1
+!s100 aF4BO[Y;5_48ggj@SKWna3
+Iz4@=lzUhED[oHUZmEdmGH2
+R1
+R2
+w1517387706
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term3.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term3.v
+R9
+R4
+r1
+!s85 0
+31
+R11
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/coef_term3.v|
+!i113 1
+R5
+R6
+vDflipflop
+R0
+!i10b 1
+!s100 ch37L0jY[XgP<@6R05ImO1
+I6G1@bQIfDZ^7oBXU14`WK0
+R1
+R2
+w1540802440
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/Dflipflop.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/Dflipflop.v
+L0 22
+R4
+r1
+!s85 0
+31
+Z12 !s108 1541656566.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/Dflipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/Dflipflop.v|
+!i113 1
+R5
+R6
+n@dflipflop
+vhidden_layer
+Z13 !s110 1541656574
+!i10b 1
+!s100 oWI;@;@bCJ>HoVUfanW@U0
+II7X2jMzi<kd3HJdEH_S8]0
+R1
+R2
+w1541654562
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/hidden_layer.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/hidden_layer.v
+Z14 L0 31
+R4
+r1
+!s85 0
+31
+Z15 !s108 1541656574.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/hidden_layer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/hidden_layer.v|
+!i113 1
+R5
+R6
+vinput_layer
+!s110 1541656575
+!i10b 1
+!s100 @5EFfhnfeKnZVY^V7J38m1
+I9mRVU3WP?gBK]eP`8=5hH2
+R1
+R2
+w1541655750
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/input_layer.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/input_layer.v
+L0 32
+R4
+r1
+!s85 0
+31
+!s108 1541656575.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/input_layer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/input_layer.v|
+!i113 1
+R5
+R6
+vmid_val
+R10
+!i10b 1
+!s100 k2JQ>GNc6S_aIHA?gf6EQ0
+I9^_EBCReIzm=^oen15T[E3
+R1
+R2
+w1517149683
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mid_val.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mid_val.v
+R9
+R4
+r1
+!s85 0
+31
+R11
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mid_val.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mid_val.v|
+!i113 1
+R5
+R6
+vmult_2in
+R13
+!i10b 1
+!s100 ;ez4T;SK<jz>Rn=Wf<6E^0
+ILo8]?MiFMb2]EOX0oC;Ul2
+R1
+R2
+w1517151718
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mult_2in.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mult_2in.v
+L0 29
+R4
+r1
+!s85 0
+31
+R11
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mult_2in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mult_2in.v|
+!i113 1
+R5
+R6
+vmult_3in
+R13
+!i10b 1
+!s100 CPIS`1JNVzidmg^Ia39e70
+IS[IPiS[Vk@cF8;DMdL_PD1
+R1
+R2
+w1517153310
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mult_3in.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mult_3in.v
+R3
+R4
+r1
+!s85 0
+31
+R15
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mult_3in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mult_3in.v|
+!i113 1
+R5
+R6
+vmultiplier
+R0
+!i10b 1
+!s100 Zc3PfLZa>6klfSgg1cMda2
+I]m6>M3TBKJT<KT_IVI>oN0
+R1
+R2
+w1540802014
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/multiplier.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/multiplier.v
+L0 1
+R4
+r1
+!s85 0
+31
+R12
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/multiplier.v|
+!i113 1
+R5
+R6
+voutput_layer
+!s110 1541656617
+!i10b 1
+!s100 Xh0Tm>HLOfPdBcETGAR^^3
+Ifg@6h]eeSGmCGLzfSA5Og1
+R1
+R2
+w1541656611
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/output_layer.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/output_layer.v
+R14
+R4
+r1
+!s85 0
+31
+!s108 1541656617.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/output_layer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/output_layer.v|
+!i113 1
+R5
+R6
+vperceptron
+Z16 !s110 1541656567
+!i10b 1
+!s100 ?kG:@l`U[1SE`@fDbU<V83
+I]0[ag7dL^1;7Pj]K5dia22
+R1
+R2
+w1541650813
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron.v
+R14
+R4
+r1
+!s85 0
+31
+R12
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron.v|
+!i113 1
+R5
+R6
+vperceptron3
+R7
+!i10b 1
+!s100 RhCa<=@>DBRQQ3?IH3d?00
+IQAbF@7fkA<a9d?T^LQ6012
+R1
+R2
+w1541651367
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron3.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron3.v
+R14
+R4
+r1
+!s85 0
+31
+!s108 1541656571.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron3.v|
+!i113 1
+R5
+R6
+vperceptron_tb
+R16
+!i10b 1
+!s100 O11lI1E[4c^KO]K<Yo]O<1
+I6;d>NMFS9jFilCNzMgl]I3
+R1
+R2
+w1541652368
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron_tb.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron_tb.v
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1541656567.000000
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/perceptron_tb.v|
+!i113 1
+R5
+R6
+vsegmentation
+R13
+!i10b 1
+!s100 T^<X^gnE8DbQYD<me;0W:0
+I<jUo0a>ZGaWIcSP<gbC2Z3
+R1
+R2
+w1517153277
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/segmentation.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/segmentation.v
+L0 1
+R4
+r1
+!s85 0
+31
+R15
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/segmentation.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/segmentation.v|
+!i113 1
+R5
+R6
+vsigmf
+R7
+!i10b 1
+!s100 bWMm[IN82bdL^?Yc3;`Yo1
+IQTR_8Vicmj`oR;C5@e4FP3
+R1
+R2
+w1540802991
+8G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/sigmf.v
+FG:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/sigmf.v
+L0 23
+R4
+r1
+!s85 0
+31
+R8
+!s107 G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/sigmf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/sigmf.v|
+!i113 1
+R5
+R6

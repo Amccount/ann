@@ -1,0 +1,327 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/vlsi/Source Code
+vadder_2in
+Z0 !s110 1541651315
+!i10b 1
+!s100 :SE=2h>eG8NG2UO;hW?WJ3
+ISP24c;4:DZWHdBN9PUgQ?1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dG:/vlsi tubes/OCR with ANN/perceptron
+w1540801926
+8G:/vlsi tubes/OCR with ANN/perceptron/adder_2in.v
+FG:/vlsi tubes/OCR with ANN/perceptron/adder_2in.v
+Z3 L0 30
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1541651315.000000
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/adder_2in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/adder_2in.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vadder_4in
+Z8 !s110 1540807873
+!i10b 1
+!s100 ;4L`nRjb3U4JC:7VMW;<]1
+In_]YO3QT?lPdKO_83CGC42
+R1
+R2
+w1517387992
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/adder_4in.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/adder_4in.v
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1540807873.000000
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/adder_4in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/adder_4in.v|
+!i113 1
+R6
+R7
+vcoef_term1
+R8
+!i10b 1
+!s100 I^Q88I^6SfV@fSJC1@=Z10
+I1h=ahzNJRT68X:adi3ie73
+R1
+R2
+w1517387733
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term1.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term1.v
+Z10 L0 28
+R4
+r1
+!s85 0
+31
+R9
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term1.v|
+!i113 1
+R6
+R7
+vcoef_term2
+Z11 !s110 1540807874
+!i10b 1
+!s100 4WHoFm]?7Hf4l9oG`70z_0
+IbP8DY4YMgI3d5L=Qb[iK22
+R1
+R2
+w1517387724
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term2.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term2.v
+R10
+R4
+r1
+!s85 0
+31
+Z12 !s108 1540807874.000000
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term2.v|
+!i113 1
+R6
+R7
+vcoef_term3
+R11
+!i10b 1
+!s100 aF4BO[Y;5_48ggj@SKWna3
+Il>JN4FT[dT6X``3=^ahW>0
+R1
+R2
+w1517387706
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term3.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term3.v
+R10
+R4
+r1
+!s85 0
+31
+R12
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/coef_term3.v|
+!i113 1
+R6
+R7
+vDflipflop
+Z13 !s110 1541651316
+!i10b 1
+!s100 ch37L0jY[XgP<@6R05ImO1
+IB7@AHO@o?QVOeO0W4Ib;>0
+R1
+R2
+w1540802440
+8G:/vlsi tubes/OCR with ANN/perceptron/Dflipflop.v
+FG:/vlsi tubes/OCR with ANN/perceptron/Dflipflop.v
+L0 22
+R4
+r1
+!s85 0
+31
+Z14 !s108 1541651316.000000
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/Dflipflop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/Dflipflop.v|
+!i113 1
+R6
+R7
+n@dflipflop
+vmid_val
+R11
+!i10b 1
+!s100 k2JQ>GNc6S_aIHA?gf6EQ0
+IM]4MUg6]`QMh^kQW05aQc3
+R1
+R2
+w1517149683
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mid_val.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mid_val.v
+R10
+R4
+r1
+!s85 0
+31
+R12
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mid_val.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mid_val.v|
+!i113 1
+R6
+R7
+vmult_2in
+R11
+!i10b 1
+!s100 ;ez4T;SK<jz>Rn=Wf<6E^0
+IN]dPMonK^NZM]U7cNAWGe3
+R1
+R2
+w1517151718
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mult_2in.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mult_2in.v
+L0 29
+R4
+r1
+!s85 0
+31
+R12
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mult_2in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mult_2in.v|
+!i113 1
+R6
+R7
+vmult_3in
+Z15 !s110 1540807875
+!i10b 1
+!s100 CPIS`1JNVzidmg^Ia39e70
+IAV6ZQPB7b3<hQ6KT@VJhn3
+R1
+R2
+w1517153310
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mult_3in.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mult_3in.v
+R3
+R4
+r1
+!s85 0
+31
+Z16 !s108 1540807875.000000
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mult_3in.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/mult_3in.v|
+!i113 1
+R6
+R7
+vmultiplier
+R0
+!i10b 1
+!s100 Zc3PfLZa>6klfSgg1cMda2
+Ibb7le3E4kMPK:T`5:0PFj1
+R1
+R2
+w1540802014
+8G:/vlsi tubes/OCR with ANN/perceptron/multiplier.v
+FG:/vlsi tubes/OCR with ANN/perceptron/multiplier.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1541651314.000000
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/multiplier.v|
+!i113 1
+R6
+R7
+vperceptron
+R0
+!i10b 1
+!s100 ?kG:@l`U[1SE`@fDbU<V83
+IT0VjP4`182ORIYRzoTi152
+R1
+R2
+w1541650813
+8G:/vlsi tubes/OCR with ANN/perceptron/perceptron.v
+FG:/vlsi tubes/OCR with ANN/perceptron/perceptron.v
+Z17 L0 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/perceptron.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/perceptron.v|
+!i113 1
+R6
+R7
+vperceptron3
+!s110 1541651372
+!i10b 1
+!s100 RhCa<=@>DBRQQ3?IH3d?00
+IP3UK[mzmG?Xch:bX81S7J1
+R1
+R2
+w1541651367
+8G:/vlsi tubes/OCR with ANN/perceptron/perceptron3.v
+FG:/vlsi tubes/OCR with ANN/perceptron/perceptron3.v
+R17
+R4
+r1
+!s85 0
+31
+!s108 1541651372.000000
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/perceptron3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/perceptron3.v|
+!i113 1
+R6
+R7
+vsegmentation
+R15
+!i10b 1
+!s100 T^<X^gnE8DbQYD<me;0W:0
+ITSPiRnV8XcCBi2`]^;d4?3
+R1
+R2
+w1517153277
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/segmentation.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/segmentation.v
+L0 1
+R4
+r1
+!s85 0
+31
+R16
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/segmentation.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/segmentation.v|
+!i113 1
+R6
+R7
+vsigmf
+R15
+!i10b 1
+!s100 bWMm[IN82bdL^?Yc3;`Yo1
+IH3g2b:M^i7eUGoG0`m2ci1
+R1
+R2
+w1540802991
+8G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/sigmf.v
+FG:/vlsi tubes/OCR with ANN/perceptron/sigmoid/sigmf.v
+L0 23
+R4
+r1
+!s85 0
+31
+R16
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/sigmf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/sigmoid/sigmf.v|
+!i113 1
+R6
+R7
+vTestbench
+R13
+!i10b 1
+!s100 dWHLl?SAPH>Ql>22:>JQI2
+I;aVOoT3cl5LJcc2`<SK]Q2
+R1
+R2
+w1540808930
+8G:/vlsi tubes/OCR with ANN/perceptron/testbench.v
+FG:/vlsi tubes/OCR with ANN/perceptron/testbench.v
+L0 5
+R4
+r1
+!s85 0
+31
+R14
+!s107 G:/vlsi tubes/OCR with ANN/perceptron/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/vlsi tubes/OCR with ANN/perceptron/testbench.v|
+!i113 1
+R6
+R7
+n@testbench
