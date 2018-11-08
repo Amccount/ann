@@ -89,18 +89,18 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	adder_4in
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/multiplier.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/multiplier.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module multiplier
-
-Top level modules:
-	multiplier
-
 } {} {}} {G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mid_val.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/sigmoid/mid_val.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module mid_val
 
 Top level modules:
 	mid_val
+
+} {} {}} {G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/multiplier.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/Array Neural Network/perceptron/multiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
 
 } {} {}}
