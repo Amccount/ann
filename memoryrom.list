@@ -1,21 +1,21 @@
 // memory data file (do not edit the following line - required for mem load use)
 // instance=/Testbench/dut/memoryZ/my_memory
 // format=hex addressradix=h dataradix=h version=1.0 wordsperline=1 noaddress
-2d
-3b
-3b
-32
-3b
-33
-3a
-33
-37
-31
-39
-3f
-32
-37
-38
+0199
+04CC
+0999
+0666
+0800
+0199
+0B33
+0333
+0333
+0800
+14CC
+1199
+0032
+0037
+0038
 34
 34
 37

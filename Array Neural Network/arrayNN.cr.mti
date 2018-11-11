@@ -12,6 +12,13 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	adder_4in
 
+} {} {}} {G:/vlsi tubes/OCR with ANN/ann/rom.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/rom.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rom
+
+Top level modules:
+	rom
+
 } {} {}} {G:/vlsi tubes/OCR with ANN/ann/array.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/array.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module array
@@ -109,6 +116,13 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 
 Top level modules:
 	readmem
+
+} {} {}} {G:/vlsi tubes/OCR with ANN/ann/forwardneural.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/forwardneural.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module forwardneural
+
+Top level modules:
+	forwardneural
 
 } {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/perceptron3.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/perceptron3.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
