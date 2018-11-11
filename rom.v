@@ -37,7 +37,7 @@ wc22, bias11, bias12, bias13, bias21, bias22);
  always@(posedge clk)
    begin
      if (enable) begin
-       $readmemh("memoryread.list", my_memory);
+       $readmemh("memoryrom.list", my_memory);
        wa11 = my_memory[0];
        wa12 = my_memory[1];
        wa13 = my_memory[2];
