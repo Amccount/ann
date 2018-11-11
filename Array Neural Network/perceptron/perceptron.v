@@ -4,25 +4,25 @@
 // Institution   : Bandung Institute of Technology
 // Engineer      : William Chandra, Teddy Hadi Utama, Shalahuddin
 //
-// Create Date   : 10/29/2018 
+// Create Date   : 10/29/2018
 // Module Name   : perceptron
 // Project Name  : LSI Design Contest in Okinawa 2018
 // Target Devices: Sigmoid Function
 // Tool versions : Vivado 2016.4
 //
-// Description: 
+// Description:
 // 		Performing addition for 4 input values
-// 
+//
 // Input:
 //  	A : 16 bit signed : First Value
-//  	B : 16 bit signed : Second Value 
-//  	C : 16 bit signed : Third Value 
-//  	D : 16 bit signed : Fourth Value 
+//  	B : 16 bit signed : Second Value
+//  	C : 16 bit signed : Third Value
+//  	D : 16 bit signed : Fourth Value
 //
 // Output:
-//  	out : 16 bit signed : Result 
+//  	out : 16 bit signed : Result
 //
-// Revision: 
+// Revision:
 // Revision 0.01 - File Created
 // Additional Comments: Addtion using operator +
 //
