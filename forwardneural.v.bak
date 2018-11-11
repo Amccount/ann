@@ -33,7 +33,6 @@ parameter DWIDTH=32;
 parameter frac=24;
 
 input clk, rst;
-input signed [DWIDTH-1:0] addread1, addread2, addwrite1, addwrite2;
 wire signed [DWIDTH-1:0] A, B, out1, out2;
 readmem readmemory(.clk(clk), .enable(1'b1), .addr1(addread1), .addr2(addread2), .data1(A), .data2(B));
 writemem writemem(.clk(clk), .enable(1'b1), .addr1(addwrite1), .addr2(addwrite2), .data1(out1), .data2(out2));
