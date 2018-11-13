@@ -7,14 +7,14 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/intelFPGA_lite/17.0
+Z0 dC:/Users/TEDDY/Desktop/ann-master
 vadder_2in
-Z0 !s110 1542085716
+Z1 !s110 1542090784
 !i10b 1
 !s100 :SE=2h>eG8NG2UO;hW?WJ3
 I?1IA93CzRm>5ZNOFGiPBi1
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Users/TEDDY/Desktop/ann-master/Array Neural Network
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
 Z3 w1541909392
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/adder_2in.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/adder_2in.v
@@ -23,19 +23,19 @@ Z5 OP;L;10.4a;61
 r1
 !s85 0
 31
-Z6 !s108 1542085716.000000
+Z6 !s108 1542090784.000000
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/adder_2in.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/adder_2in.v|
 !s101 -O0
 !i113 1
 Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
 vadder_4in
-Z8 !s110 1542085717
+Z8 !s110 1542090786
 !i10b 1
 !s100 ;4L`nRjb3U4JC:7VMW;<]1
 IEQEjK4Se<nI:_@=gUK=ST2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/adder_4in.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/adder_4in.v
@@ -44,20 +44,20 @@ R5
 r1
 !s85 0
 31
-Z9 !s108 1542085717.000000
+Z9 !s108 1542090785.000000
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/adder_4in.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/adder_4in.v|
 !s101 -O0
 !i113 1
 R7
 varray
-Z10 !s110 1542085715
+Z10 !s110 1542090783
 !i10b 1
-!s100 KiQ_of:IR5Foc=WU3f6;]0
-INoCIUKZDWnci`hYK<PgRf2
-R1
+!s100 DETb:]]:i6CEPZnRkT<5A3
+IAdL_`9FmX]A]e=[0@;R8H3
 R2
-R3
+R0
+w1542086093
 8C:/Users/TEDDY/Desktop/ann-master/array.v
 FC:/Users/TEDDY/Desktop/ann-master/array.v
 R4
@@ -65,7 +65,7 @@ R5
 r1
 !s85 0
 31
-Z11 !s108 1542085715.000000
+Z11 !s108 1542090783.000000
 !s107 C:/Users/TEDDY/Desktop/ann-master/array.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/array.v|
 !s101 -O0
@@ -76,8 +76,8 @@ R8
 !i10b 1
 !s100 I^Q88I^6SfV@fSJC1@=Z10
 IO5[R=Y^9N;=U2U?PJ;Ygh1
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term1.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term1.v
@@ -86,19 +86,19 @@ R5
 r1
 !s85 0
 31
-R9
+Z13 !s108 1542090786.000000
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term1.v|
 !s101 -O0
 !i113 1
 R7
 vcoef_term2
-Z13 !s110 1542085718
+R8
 !i10b 1
 !s100 4WHoFm]?7Hf4l9oG`70z_0
 IfANM1Ua@KQWDMJLd_f:@:1
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term2.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term2.v
@@ -107,19 +107,19 @@ R5
 r1
 !s85 0
 31
-R9
+R13
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term2.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term2.v|
 !s101 -O0
 !i113 1
 R7
 vcoef_term3
-R13
+R8
 !i10b 1
 !s100 aF4BO[Y;5_48ggj@SKWna3
 I]=]7QB[mbz@k]UW1Q?>``1
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term3.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term3.v
@@ -128,19 +128,19 @@ R5
 r1
 !s85 0
 31
-Z14 !s108 1542085718.000000
+R13
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term3.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term3.v|
 !s101 -O0
 !i113 1
 R7
 vDflipflop
-R8
+Z14 !s110 1542090785
 !i10b 1
 !s100 ch37L0jY[XgP<@6R05ImO1
 I?jJaKTkcYUHi4Y<68EP_m2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/Dflipflop.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/Dflipflop.v
@@ -161,8 +161,8 @@ R10
 !i10b 1
 !s100 _nVW6m`zhAb6>B<b;VR;F2
 IodU2@02AaB7dd5zGOlXgW2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/forwardneural.v
 FC:/Users/TEDDY/Desktop/ann-master/forwardneural.v
@@ -178,12 +178,12 @@ R11
 !i113 1
 R7
 vhidden_layer
-R0
+R1
 !i10b 1
 !s100 oWI;@;@bCJ>HoVUfanW@U0
 IIZHcAiDRQjMJPl6aJ<@dU3
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/hidden_layer.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/hidden_layer.v
@@ -199,12 +199,12 @@ R6
 !i113 1
 R7
 vinput_layer
-R0
+R1
 !i10b 1
 !s100 @5EFfhnfeKnZVY^V7J38m1
 IV:1NQ9e0eAZzH<RKI5JWM2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/input_layer.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/input_layer.v
@@ -220,12 +220,12 @@ R6
 !i113 1
 R7
 vmid_val
-R13
+R8
 !i10b 1
 !s100 k2JQ>GNc6S_aIHA?gf6EQ0
 IZE_<JQDQ3KRi3mbPN767d2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mid_val.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mid_val.v
@@ -234,19 +234,19 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mid_val.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mid_val.v|
 !s101 -O0
 !i113 1
 R7
 vmult_2in
-R13
+R8
 !i10b 1
 !s100 ;ez4T;SK<jz>Rn=Wf<6E^0
 IjOG_5:J]MnWE=If@ICBHG3
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_2in.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_2in.v
@@ -255,19 +255,19 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_2in.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_2in.v|
 !s101 -O0
 !i113 1
 R7
 vmult_3in
-R13
+R8
 !i10b 1
 !s100 CPIS`1JNVzidmg^Ia39e70
 IXibT`Pf4aGijMZSB8g5fd2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_3in.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_3in.v
@@ -276,19 +276,19 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_3in.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_3in.v|
 !s101 -O0
 !i113 1
 R7
 vmultiplier
-R8
+R14
 !i10b 1
 !s100 Zc3PfLZa>6klfSgg1cMda2
 IIdYQA1i9jAY7Zz1gDaae[2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/multiplier.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/multiplier.v
@@ -304,12 +304,12 @@ R9
 !i113 1
 R7
 voutput_layer
-R0
+R1
 !i10b 1
 !s100 Xh0Tm>HLOfPdBcETGAR^^3
 IVaAYk?njn9DlgiacTaONh3
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/output_layer.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/output_layer.v
@@ -325,13 +325,13 @@ R6
 !i113 1
 R7
 vperceptron
-R8
+R14
 !i10b 1
 !s100 ?kG:@l`U[1SE`@fDbU<V83
 IOKA1W^PDb?C3zWJM9Q`lg0
-R1
 R2
-R3
+R0
+w1542090251
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron.v
 R15
@@ -346,13 +346,13 @@ R9
 !i113 1
 R7
 vperceptron3
-R8
+R14
 !i10b 1
-!s100 RhCa<=@>DBRQQ3?IH3d?00
-I3ggASkzc_dicidE4LJSDL0
-R1
+!s100 J5DPa]ML>8l@gK?Y>WSJ_3
+I^>AMk;db_QSHn2aj_Q=6<3
 R2
-R3
+R0
+w1542088554
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron3.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron3.v
 R15
@@ -367,12 +367,12 @@ R9
 !i113 1
 R7
 vperceptron_tb
-R8
+R14
 !i10b 1
 !s100 O11lI1E[4c^KO]K<Yo]O<1
 IJ:Qfn4Z@cY4Y=IWgOVzfH2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron_tb.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron_tb.v
@@ -388,12 +388,12 @@ R9
 !i113 1
 R7
 vreadmem
-R0
+R1
 !i10b 1
 !s100 ?SF6aYZJ:zSF`fZP^iZ`72
 Iln9RmSKbdMN[1X0VE4`2a2
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/readmem.v
 FC:/Users/TEDDY/Desktop/ann-master/readmem.v
@@ -409,12 +409,12 @@ R11
 !i113 1
 R7
 vrom
-R0
+R1
 !i10b 1
 !s100 C[:B]dJ`?CF<cDVzSzZ_A3
 ISSU@dnAX<6XKezJgCdJ9X1
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/rom.v
 FC:/Users/TEDDY/Desktop/ann-master/rom.v
@@ -430,12 +430,12 @@ R6
 !i113 1
 R7
 vsegmentation
-R13
+Z16 !s110 1542090787
 !i10b 1
 !s100 T^<X^gnE8DbQYD<me;0W:0
 Ia6[eRadc;^?`gRU]ZSICe1
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/segmentation.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/segmentation.v
@@ -444,19 +444,19 @@ R5
 r1
 !s85 0
 31
-R14
+R13
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/segmentation.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/segmentation.v|
 !s101 -O0
 !i113 1
 R7
 vsigmf
-R13
+R16
 !i10b 1
 !s100 bWMm[IN82bdL^?Yc3;`Yo1
 Ibc^]Ikl1a;Vb:HIPJYJWC1
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/sigmf.v
 FC:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/sigmf.v
@@ -465,19 +465,19 @@ R5
 r1
 !s85 0
 31
-R14
+!s108 1542090787.000000
 !s107 C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/sigmf.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/sigmf.v|
 !s101 -O0
 !i113 1
 R7
 vwritemem
-R0
+R1
 !i10b 1
 !s100 [32bFY=0FlU9:=l`O0=`M1
 I?PU;U]_6d58ENzU3^KTC;1
-R1
 R2
+R0
 R3
 8C:/Users/TEDDY/Desktop/ann-master/writemem.v
 FC:/Users/TEDDY/Desktop/ann-master/writemem.v

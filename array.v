@@ -88,7 +88,7 @@ output_layer output_layer1(
 
 rom romweightandbiasrom(
 .clk(clk),
-.enable(enable),
+.enable(1'b1),
 .wa11(wa11),
 .wa12(wa12),
 .wa13(wa13),

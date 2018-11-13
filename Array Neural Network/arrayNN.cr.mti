@@ -1,162 +1,208 @@
-{G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/output_layer.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/output_layer.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module output_layer
+{C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term1.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term1.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
 
-Top level modules:
-	output_layer
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/adder_4in.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/adder_4in.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module adder_4in
-
-Top level modules:
-	adder_4in
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/rom.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/rom.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module rom
-
-Top level modules:
-	rom
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/array.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/array.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module array
-
-Top level modules:
-	array
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/hidden_layer.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/hidden_layer.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module hidden_layer
-
-Top level modules:
-	hidden_layer
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/multiplier.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/multiplier.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module multiplier
-
-Top level modules:
-	multiplier
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/mid_val.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/mid_val.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module mid_val
-
-Top level modules:
-	mid_val
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/coef_term1.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/coef_term1.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module coef_term1
 
 Top level modules:
 	coef_term1
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/adder_2in.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/adder_2in.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module adder_2in
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/Dflipflop.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/Dflipflop.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
 
-Top level modules:
-	adder_2in
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/Dflipflop.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/Dflipflop.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module Dflipflop
 
 Top level modules:
 	Dflipflop
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/coef_term2.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/coef_term2.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module coef_term2
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/adder_2in.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/adder_2in.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_2in
 
 Top level modules:
-	coef_term2
+	adder_2in
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/segmentation.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/segmentation.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module segmentation
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/sigmf.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/sigmf.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
 
-Top level modules:
-	segmentation
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/sigmf.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/sigmf.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module sigmf
 
 Top level modules:
 	sigmf
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/writemem.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/writemem.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module writemem
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/segmentation.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/segmentation.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module segmentation
 
 Top level modules:
-	writemem
+	segmentation
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/perceptron.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/perceptron.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module perceptron
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term2.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term2.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module coef_term2
 
 Top level modules:
-	perceptron
+	coef_term2
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/coef_term3.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/coef_term3.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term3.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/coef_term3.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module coef_term3
 
 Top level modules:
 	coef_term3
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/readmem.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/readmem.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module perceptron
+
+Top level modules:
+	perceptron
+
+} {} {}} C:/Users/TEDDY/Desktop/ann-master/writemem.v {2 {vlog -work work -stats=none C:/Users/TEDDY/Desktop/ann-master/writemem.v
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module writemem
+
+Top level modules:
+	writemem
+
+} {} {}} C:/Users/TEDDY/Desktop/ann-master/readmem.v {2 {vlog -work work -stats=none C:/Users/TEDDY/Desktop/ann-master/readmem.v
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module readmem
 
 Top level modules:
 	readmem
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/forwardneural.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/forwardneural.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+} {} {}} C:/Users/TEDDY/Desktop/ann-master/forwardneural.v {2 {vlog -work work -stats=none C:/Users/TEDDY/Desktop/ann-master/forwardneural.v
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module forwardneural
 
 Top level modules:
 	forwardneural
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/perceptron3.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/perceptron3.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
--- Compiling module perceptron3
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_2in.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_2in.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
 
-Top level modules:
-	perceptron3
-
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/mult_2in.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/mult_2in.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module mult_2in
 
 Top level modules:
 	mult_2in
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/mult_3in.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/sigmoid/mult_3in.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron3.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron3.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module perceptron3
+
+Top level modules:
+	perceptron3
+
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_3in.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mult_3in.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module mult_3in
 
 Top level modules:
 	mult_3in
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/perceptron_tb.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/perceptron/perceptron_tb.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron_tb.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/perceptron_tb.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module perceptron_tb
 
 Top level modules:
 	perceptron_tb
 
-} {} {}} {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/input_layer.v} {1 {vlog -work work -stats=none {G:/vlsi tubes/OCR with ANN/ann/Array Neural Network/input_layer.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/input_layer.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/input_layer.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module input_layer
 
 Top level modules:
 	input_layer
+
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/output_layer.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/output_layer.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module output_layer
+
+Top level modules:
+	output_layer
+
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/adder_4in.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/adder_4in.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder_4in
+
+Top level modules:
+	adder_4in
+
+} {} {}} C:/Users/TEDDY/Desktop/ann-master/rom.v {2 {vlog -work work -stats=none C:/Users/TEDDY/Desktop/ann-master/rom.v
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mid_val.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/sigmoid/mid_val.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mid_val
+
+Top level modules:
+	mid_val
+
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/multiplier.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/perceptron/multiplier.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/hidden_layer.v} {2 {vlog -work work -stats=none {C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/hidden_layer.v}
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module hidden_layer
+
+Top level modules:
+	hidden_layer
+
+} {} {}} C:/Users/TEDDY/Desktop/ann-master/array.v {2 {vlog -work work -stats=none C:/Users/TEDDY/Desktop/ann-master/array.v
+** Warning: (vlog-14) Failed to open "C:/Users/TEDDY/Desktop/ann-master/Array Neural Network/arrayNN.mpf" specified by the MODELSIM environment variable.
+
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module array
+
+Top level modules:
+	array
 
 } {} {}}

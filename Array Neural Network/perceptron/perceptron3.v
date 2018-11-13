@@ -40,9 +40,9 @@ output signed [DWIDTH-1:0] out;
 wire signed [DWIDTH-1:0] temp1, temp2, temp3, temp4, temp5, temp6;
 wire signed [DWIDTH-1:0] sigm;
 
-multiplier mult1(.a({A[31],A[6:0],24'h000000}), .b(wa), .out(temp1));
-multiplier mult2(.a({B[31],B[6:0],24'h000000}), .b(wb), .out(temp2));
-multiplier mult3(.a({C[31],C[6:0],24'h000000}), .b(wc), .out(temp3));
+multiplier mult1(.a(A), .b(wa), .out(temp1));
+multiplier mult2(.a(B), .b(wb), .out(temp2));
+multiplier mult3(.a(C), .b(wc), .out(temp3));
 adder_2in adder1(.A(temp1), .B(temp2), .out(temp4));
 adder_2in adder2(.A(temp3), .B(temp4), .out(temp5));
 adder_2in adder3(.A(bias), .B(temp5), .out(temp6));
